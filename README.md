@@ -1,6 +1,6 @@
 ### Hello friends,
 
-![Edwin's Banner](https://github.com/smileycrew/smileycrew/assets/141660805/9c95fc43-2f9a-4790-92e9-d45596ca4121)
+![Edwin's banner](https://github.com/smileycrew/smileycrew/assets/141660805/344950d4-b034-4506-9648-a59a75726fed)
 
 ## About me
 - 🏅 Teamplayer: I absolutely LOVE to teach as much as I LOVE to learn.
