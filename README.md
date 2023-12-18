@@ -8,15 +8,9 @@
 [![Utilities](https://skillicons.dev/icons?i=postman,sqlite,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 ## Contact info
-<a href="discordapp.com/users/smiley013">
-  <img src="https://skillicons.dev/icons?i=discord" alt="" />
-</a>
 <a href="https://www.linkedin.com/in/edwin-moz/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="" />
 </a>
-<a href="discordapp.com/users/smiley013">Discord</a>
-[![myDiscord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-
 <!--
 **smileycrew/smileycrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
