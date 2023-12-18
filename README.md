@@ -16,8 +16,9 @@
 
 ## Contact info
 
-<a href='' />
-<img src="https://skillicons.dev/icons?i=discord" alt="" />
+<a href='discordapp.com/users/smiley013'>
+  <img src="https://skillicons.dev/icons?i=discord" alt="" />
+</a>
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 
