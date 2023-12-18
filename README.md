@@ -4,28 +4,19 @@
 
 ## About me
 - 🏅 Teamplayer: I absolutely LOVE to teach as much as I LOVE to learn.
-- 🚀 Gamer: In my spare time, I am a competitive player-vs-player light fighter pilot in a game called Star Citizen. If you haven't already guessed it, I also teach others players how to become better in game pilots!
+- 🚀 Gamer: In my spare time, I am a competitive player-vs-player light fighter pilot in a game called Star Citizen. If you haven't already guessed it, I also teach others players how to become better pilots in game!
 ## Skills
 [![Front end skills](https://skillicons.dev/icons?i=js,css,tailwind,html,react)](https://skillicons.dev)
-
 [![Backend skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
-
 [![Utilities](https://skillicons.dev/icons?i=postman,sqlite,postgres)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
-
 ## Contact info
 <a href="/discordapp.com/users/smiley013">
-  <img height=50 width=50 src="https://skillicons.dev/icons?i=discord" alt="" />
+  <img src="https://skillicons.dev/icons?i=discord" alt="" />
 </a>
 <a href="https://www.linkedin.com/in/edwin-moz/">
-  <img height=50 width=50 src="https://skillicons.dev/icons?i=linkedin" alt="" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="" />
 </a>
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-
-
-
-
 <!--
 **smileycrew/smileycrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
