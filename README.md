@@ -16,10 +16,10 @@
 
 ## Contact info
 <a href="/discordapp.com/users/smiley013">
-  <img src="https://skillicons.dev/icons?i=discord" alt="" />
+  <img height=50 width=50 src="https://skillicons.dev/icons?i=discord" alt="" />
 </a>
 <a href="https://www.linkedin.com/in/edwin-moz/">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="" />
+  <img height=50 width=50 src="https://skillicons.dev/icons?i=linkedin" alt="" />
 </a>
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
