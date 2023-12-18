@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postman,sqlite,postgres)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
 
 
