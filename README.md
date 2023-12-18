@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/edwin-moz/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="" />
 </a>
-<Link to="discordapp.com/users/smiley013"></Link>
+<a href="discordapp.com/users/smiley013">Discord</a>
 [![myDiscord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 <!--
