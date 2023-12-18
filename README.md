@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-test test
+![Edwin's Banner](https://github.com/smileycrew/smileycrew/assets/141660805/9c95fc43-2f9a-4790-92e9-d45596ca4121)
 
 <!--
 **smileycrew/smileycrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
