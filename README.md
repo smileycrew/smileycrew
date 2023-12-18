@@ -8,6 +8,14 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,css,dotnet,github,html,js,postgres,postman,react,sqlite,tailwind,vscode)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,css,tailwind,html,react)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,)](https://skillicons.dev)
+
+
+
 <!--
 **smileycrew/smileycrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
