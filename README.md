@@ -15,9 +15,11 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
 ## Contact info
-
-<a href='/discordapp.com/users/smiley013'>
+<a href="/discordapp.com/users/smiley013">
   <img src="https://skillicons.dev/icons?i=discord" alt="" />
+</a>
+<a href="https://www.linkedin.com/in/edwin-moz/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="" />
 </a>
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
