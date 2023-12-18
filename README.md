@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friends,
 
 ![Edwin's Banner](https://github.com/smileycrew/smileycrew/assets/141660805/9c95fc43-2f9a-4790-92e9-d45596ca4121)
 
