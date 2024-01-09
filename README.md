@@ -13,6 +13,8 @@
 
 [![Database skills](https://skillicons.dev/icons?i=postman,sqlite,postgres)](https://skillicons.dev)
 
+[![Database skills](https://skillicons.dev/icons?i=typescript,nextjs)](https://skillicons.dev)
+
 [![Utilities](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
 ## Contact info
